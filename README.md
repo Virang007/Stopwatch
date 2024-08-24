@@ -1,10 +1,10 @@
-# Stopwatch App in Android 
+# StepsWatch App in Android 
 
-A straightforward stopwatch application with features for timing and tracking elapsed time. This project demonstrates a simple yet effective timer interface.
+A straightforward StepsWatch application with features for timing and tracking elapsed time. This project demonstrates a simple yet effective timer interface.
 
 ## Screenshots
 
-Here are some screenshots of the Stopwatch application:
+Here are some screenshots of the StepsWatch application:
 
 <img src="https://github.com/Virang007/Stopwatch/assets/104147123/1d9259e3-f3ed-4109-9b48-c96d0dbc11b9" alt="Stopwatch Screenshot 1" width="200" />
 
